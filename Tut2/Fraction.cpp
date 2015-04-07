@@ -14,5 +14,9 @@ Fraction::~Fraction()
 {
 }
 
-int Fraction:: add()
-return num1
+int Fraction::add(int num)
+{
+
+	return num;
+};
+
